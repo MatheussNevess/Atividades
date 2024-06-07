@@ -8,7 +8,7 @@ public class ExercicioDoWhile2 {
 		// TODO Auto-generated method stub
 
 		int num, multiplo = 0, total = 0;
-		double media = 0;
+		double media;
 
 		Scanner leia = new Scanner(System.in);
 
